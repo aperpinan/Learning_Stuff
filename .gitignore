@@ -33,10 +33,6 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-# Ignore sensitive files
-secret.*
-*.secret
-secrets*
 
 
 
