@@ -5,6 +5,7 @@ metadata:
     run: nginx-yaml
     method: fromCode
     label2: anotherLabel
+    label3: anotherLabel2
   name: nginx-yaml
 spec:
   containers:
